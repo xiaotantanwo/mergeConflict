@@ -9,4 +9,5 @@ int main(){
     int d;
     printf("%d\n",c);
     printf("%d\n",d);
+    printf("hahaahhaah\n");
 }
